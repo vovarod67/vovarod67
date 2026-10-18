@@ -14,6 +14,8 @@ Python · Django · Django REST Framework · Flask · asyncio · aiohttp · Post
 
 **[Async-Yacut](https://github.com/vovarod67/async-yacut)** — сервис сокращения ссылок с REST API и асинхронной загрузкой файлов на Яндекс Диск.
 
+**[API YaMDb](https://github.com/Maksim-1995/api-yamdb)** — командный учебный проект на Django REST Framework. Разрабатывал регистрацию и аутентификацию пользователей, управление профилями и разграничение прав доступа.
+
 ## Контакты
 
 - Telegram: [@vovarod](https://t.me/vovarod)
