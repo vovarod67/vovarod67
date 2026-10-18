@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я Владимир 👋
 
-<!--
-**vovarod67/vovarod67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Пишу на Python. Во время обучения работал с Django, Django REST Framework, базами данных и Docker.
 
-Here are some ideas to get you started:
+Здесь собраны мои проекты и примеры кода.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологии и инструменты
+
+Python · Django · Django REST Framework · PostgreSQL · SQLite · Docker · Git · pytest
+
+## Проекты
+
+**[Foodgram](https://github.com/vovarod67/foodgram)** — веб-приложение для публикации рецептов с подписками на авторов, избранным и списком покупок.
+
+## Контакты
+
+- Telegram: [@vovarod](https://t.me/vovarod)
+- Email: vovarod67@gmail.com
