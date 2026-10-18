@@ -6,7 +6,7 @@
 
 ## Технологии и инструменты
 
-Python · Django · Django REST Framework · Flask · asyncio · aiohttp · PostgreSQL · SQLite · Docker · Git · pytest
+Python · Django · Django REST Framework · Flask · asyncio · aiohttp · Nginx · Gunicorn · PostgreSQL · SQLite · Docker · Git · pytest
 
 ## Проекты
 
